@@ -1,5 +1,4 @@
 [build]
-    base = "sveltekit-with-tailwind2"
     command = "npm run build"
     publish = "build/"
     functions = "functions/"
