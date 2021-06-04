@@ -45,8 +45,8 @@
 				</svg>
 			</span>
 			<p class="ml-2">
-				Customizing your
-				<code class="text-sm font-bold text-gray-900">tailwind.config.js</code> file
+				Uses
+				<code class="text-sm font-bold text-gray-900">tailwind</code>
 			</p>
 		</li>
 		<li class="flex items-start">
@@ -61,7 +61,7 @@
 			</span>
 			<p class="ml-2">
 				Push to Netlify!
-				<code class="text-sm font-bold text-gray-900">@apply</code>
+				<code class="text-sm font-bold text-gray-900">YAY!</code>
 			</p>
 		</li>
 		<li class="flex items-start">
@@ -74,7 +74,7 @@
 					/>
 				</svg>
 			</span>
-			<p class="ml-2">YAY!!</p>
+			<p class="ml-2">More YAY!</p>
 		</li>
 	</ul>
 
