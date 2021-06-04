@@ -14,6 +14,10 @@
 	export const prerender = true;
 </script>
 
+<script>
+	import Card from '$lib/Card/index.svelte';
+</script>
+
 <svelte:head>
 	<title>About</title>
 </svelte:head>
@@ -44,6 +48,10 @@
 		The <a href="/todos">TODOs</a> page illustrates SvelteKit's data loading and form handling. Try using
 		it with JavaScript disabled!
 	</p>
+</div>
+
+<div class="text-center flex">
+	<Card />
 </div>
 
 <style>
