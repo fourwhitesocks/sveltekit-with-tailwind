@@ -1,4 +1,6 @@
-import { api } from './_api';
+throw new Error("@migration task: Update +server.js (https://github.com/sveltejs/kit/discussions/5774#discussioncomment-3292701)");
+
+import { api } from '../_api';
 
 // PATCH /todos/:uid.json
 export const patch = async (request) => {
