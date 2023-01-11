@@ -11,6 +11,13 @@
 </svelte:head>
 
 <section>
+	<h4>
+		Breaking change see possibly:
+		<div>
+			ERROR:
+			https://stackoverflow.com/questions/70534899/sveltekit-error-request-query-has-been-replaced-by-request-url-searchparams
+		</div>
+	</h4>
 	<h1 class="text-blue-500 font-bold">
 		<div class="welcome">
 			<picture>
